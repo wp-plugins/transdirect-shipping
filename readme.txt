@@ -41,4 +41,7 @@ This section describes how to install the plugin and get it working.
 == Screenshots ==
 
 1. How to navigate to Transdirect Shipping option under Shipping settings.
-2. Example screenshot of Transdirect Shipping settings.
+2. Authentication section, check Enable Transdirect Shipping to enable this shipping option.
+3. Settings for Warehouse Address, Default Item Size and Display Options.
+4. If Transdirect Shipping is enabled, Transdirect Shipping option is now available in Shipping and Handling. Choose destination postcode to generate shipping quotes.
+5. Shipping quotes are shown with add-ons.
