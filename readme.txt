@@ -13,12 +13,12 @@ This plugin provides delivery quotes from Australia's largest carriers in a seam
 Transdirect Shipping Plugin for Woocommerce gives you access to Australia's largest courier and freight companies, and allows your clients a seamless checkout process.
 
 The main features of this plugin are:
-1. Free to use.
-2. Simple configuration.
-3. Great shipping rates from Toll Ipec, Fastway, Couriers Please, Toll Priority, Northline, Mainfreight and more.
-4. Seamless checkout process for your clients.
-5. Multiple quote options.
-6. Insurance options available.
+* Free to use.
+* Simple configuration.
+* Great shipping rates from Toll Ipec, Fastway, Couriers Please, Toll Priority, Northline, Mainfreight and more.
+* Seamless checkout process for your clients.
+* Multiple quote options.
+* Insurance options available.
 
 To find out more about Transdirect's service, please contact sales@transdirect.com.au.
 Transdirect - Delivering Solutions.
@@ -27,8 +27,10 @@ Transdirect - Delivering Solutions.
 
 This section describes how to install the plugin and get it working.
 
-1. Download and install plugin WooCommerce - excelling eCommerce.
-2. Download and install this plugin, Transdirect Shipping.
+= Manual installation =
+
+1. Download and install plugin WooCommerce - excelling eCommerce. See Wordpress instructions on [how to do this](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+2. Download and install this plugin, Transdirect Shipping. See Wordpress instructions on [how to do this](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 3. Under Woocommerce settings, navigate shipping tab then Transdirect Shipping option.
 4. For Authentication, click Enable Transdirect to enable the plugin. Provide Title Name of this plugin. Email and Password will be provided by Transdirect, please contact sales@transdirect.com.au.
 5. For Warehouse Address, enter your delivery postcode.
@@ -37,5 +39,5 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. How to navigate to Transdirect Shipping option under Shipping settings, settings.(png|jpg|jpeg|gif).
-2. Example screenshot of Transdirect Shipping settings, authentication.(png|jpg|jpeg|gif).
+1. How to navigate to Transdirect Shipping option under Shipping settings.
+2. Example screenshot of Transdirect Shipping settings.
