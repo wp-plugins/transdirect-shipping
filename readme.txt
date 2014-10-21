@@ -13,6 +13,7 @@ This plugin provides delivery quotes from Australia's largest carriers in a seam
 Transdirect Shipping Plugin for Woocommerce gives you access to Australia's largest courier and freight companies, and allows your clients a seamless checkout process.
 
 The main features of this plugin are:
+
 * Free to use.
 * Simple configuration.
 * Great shipping rates from Toll Ipec, Fastway, Couriers Please, Toll Priority, Northline, Mainfreight and more.
