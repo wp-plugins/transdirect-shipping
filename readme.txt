@@ -46,3 +46,15 @@ This section describes how to install the plugin and get it working.
 3. Settings for Warehouse Address, Default Item Size and Display Options.
 4. If Transdirect Shipping is enabled, Transdirect Shipping option is now available in Shipping and Handling. Choose destination postcode to generate shipping quotes.
 5. Shipping quotes are shown with add-ons.
+
+== Changelog ==
+
+= 1.1 =
+* Added SSL verification in getting location.
+
+== Upgrade Notice ==
+
+= 1.1 =
+* Upgrade to fix some browser SSL verification. 
+
+
