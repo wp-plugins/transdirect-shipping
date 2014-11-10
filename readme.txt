@@ -24,7 +24,7 @@ The main features of this plugin are:
 
 Requirements: 
 
-* PHP version at least 5.4
+* PHP version at least 5.4.
 
 To find out more about Transdirect's service, please contact sales@transdirect.com.au.
 Transdirect - Delivering Solutions.
