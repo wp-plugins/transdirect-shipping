@@ -21,10 +21,11 @@ The main features of this plugin are:
 * Seamless checkout process for your clients.
 * Multiple quote options.
 * Insurance options available.
+* Requirements: PHP version at least 5.4
 
 To find out more about Transdirect's service, please contact sales@transdirect.com.au.
 Transdirect - Delivering Solutions.
-* Requirements: PHP version at least 5.4
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
