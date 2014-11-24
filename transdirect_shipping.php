@@ -576,24 +576,19 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
 						$html = $html . $value['html'];
 					}
 				} else{
-					//echo 'No data found ';
-					echo 'No Login Provided';
+					$html = "No Login Provided";
 				}
 			} elseif ($default_values['quotes'] == 'Display Cheapest') {
 				if($quotes['cheapest']['couriers']) {
 					foreach ($quotes['cheapest']['couriers'] as $key => $value)
 						$html = $html . $value;
-				} else {
-					//echo 'No data found';
-					echo 'No Login Provided';
 				}
 			} elseif ($default_values['quotes'] == 'Display Cheapest Fastest') {
 				if($quotes['fastest']['couriers']){
 					foreach ($quotes['fastest']['couriers'] as $key => $value)
 						$html = $html . $value;
-				} else {
-					//echo 'No data found';
-					echo 'No Login Provided';
+				} else{
+					$html = "No Login Provided";
 				}
 			}
 
@@ -602,12 +597,9 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
 				//echo 'No data found';
 			}
 
-			if($html == '') {
-				echo "No Login Provided";
-			} else {
+		
 				header( "Content-Type: text/html" );
 				echo $html;
-			}
 		}
 		else {
 			echo 'No Login Provided';
