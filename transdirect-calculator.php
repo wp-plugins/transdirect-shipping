@@ -11,7 +11,6 @@ if (!defined('ABSPATH')) exit; // Exit if accessed directly
 
 global $woocommerce, $wpdb; ?>
 
-
 <style>
 	.shipping-calculator-form1 {position:relative;}
 	#autocomplete-div {background:#FFFFFF; border: 1px solid #EDEDED; border-radius: 3px 3px 3px 3px; display: none; height: 200px;  margin: -5px 0 0 1px; overflow: auto; padding: 5px; position: absolute;  width: 189px;   z-index: 99;}

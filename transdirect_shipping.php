@@ -18,7 +18,6 @@ if (!session_id()) session_start();
 
 error_reporting(E_ALL & ~E_NOTICE);
 
-
 /**
  * Check if WooCommerce is active
  */
