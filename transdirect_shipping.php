@@ -16,6 +16,7 @@
 // Exit if accessed directly
 if (!defined('ABSPATH')) exit;
 
+
 if (!session_id()) session_start();
 error_reporting(E_ALL & ~E_NOTICE);
 
