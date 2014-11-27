@@ -3,7 +3,7 @@ Contributors: transdirect, bywave
 Tags: transdirect, quote, quotes, quick quotes, courier, couriers, freight, freights, shipping, delivery, toll, toll ipec, fastway, couriers please, toll priority, northline, mainfreight, cart, checkout, configurable, woocommerce, woo-commerce, ecommerce, e-commerce, commerce, wordpress ecommerce
 Requires at least: 3.8
 Tested up to: 4.0
-Stable tag: 1.6
+Stable tag: 1.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
