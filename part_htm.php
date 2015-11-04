@@ -580,7 +580,7 @@
 					</tr>
 					<tr>
 						<td>
-							<?php $default_values['order_date'] = date("Y-m-d"); ?>
+							<?php if ($default_values['order_date'] == "" ) { $default_values['order_date'] = date("Y-m-d"); } ?>
 							<input class="order-sync" type="date" name="<?php echo $field; ?>order_date" id="<?php echo $field; ?>order_date" 
 	                        value="<?php echo $default_values['order_date']; ?>">
 						</td>
