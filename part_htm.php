@@ -4,7 +4,7 @@
  * Shipping Transdirect Settings
  *
  * @author 		Transdirect Developer
- * @version     2.5
+ * @version     2.6
  */
 ?>
 <!-- CSS styles -->
